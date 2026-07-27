@@ -1,0 +1,281 @@
+Order_ID,Order_Date,Region,Category,Product,Customer_Name,Quantity,Discount
+5000,2025-01-01,East,Groceries,Cooking Oil,Manoj Pillai,8,0.0
+5001,2025-01-01,North,Clothing,Jeans,Neha Joshi,5,0.05
+5002,2025-01-01,North,Electronics,Smartphone,Divya Menon,4,0.15
+5003,2025-01-01,East,Furniture,Bed Frame,Sanjay Malhotra,9,0.2
+5004,2025-01-01,South,Furniture,Office Chair,Sneha Gupta,3,0.1
+5005,2025-01-02,East,Stationery,File Folder,Kavita Das,7,0.15
+5006,2025-01-02,South,Furniture,Bookshelf,Sanjay Malhotra,9,0.1
+5007,2025-01-02,North,Groceries,Spices Set,Sneha Gupta,8,0.15
+5008,2025-01-02,East,Stationery,Notebook,Manoj Pillai,6,0.05
+5009,2025-01-02,South,Electronics,Smartphone,Priya Verma,5,0.0
+5010,2025-01-02,West,Clothing,Jeans,Divya Menon,7,0.15
+5011,2025-01-03,South,Groceries,Tea Pack,Kavita Das,4,0.1
+5012,2025-01-03,North,Furniture,Bookshelf,Amit Singh,5,0.1
+5013,2025-01-03,East,Furniture,Wooden Table,Pooja Iyer,6,0.15
+5014,2025-01-03,East,Groceries,Spices Set,Pooja Iyer,7,0.1
+5015,2025-01-03,West,Stationery,Geometry Box,Neha Joshi,7,0.05
+5016,2025-01-04,East,Stationery,Geometry Box,Divya Menon,6,0.0
+5017,2025-01-04,North,Clothing,Shoes,Arjun Reddy,3,0.1
+5018,2025-01-04,North,Groceries,Spices Set,Amit Singh,10,0.15
+5019,2025-01-04,East,Groceries,Spices Set,Manoj Pillai,6,0.0
+5020,2025-01-05,North,Groceries,Cooking Oil,Sanjay Malhotra,8,0.15
+5021,2025-01-05,West,Furniture,Bed Frame,Sneha Gupta,6,0.0
+5022,2025-01-05,West,Stationery,Pen Set,Vikram Rao,5,0.05
+5023,2025-01-05,North,Furniture,Bed Frame,Priya Verma,5,0.15
+5024,2025-01-06,North,Furniture,Wooden Table,Sanjay Malhotra,4,0.1
+5025,2025-01-06,West,Groceries,Spices Set,Kavita Das,1,0.1
+5026,2025-01-06,East,Groceries,Spices Set,Pooja Iyer,3,0.1
+5027,2025-01-06,North,Stationery,Geometry Box,Divya Menon,1,0.15
+5028,2025-01-06,North,Furniture,Wooden Table,Arjun Reddy,10,0.2
+5029,2025-01-07,North,Clothing,Shoes,Rohit Kapoor,3,0.05
+5030,2025-01-07,South,Groceries,Cooking Oil,Divya Menon,1,0.2
+5031,2025-01-07,East,Clothing,T-Shirt,Divya Menon,7,0.15
+5032,2025-01-07,West,Groceries,Rice Pack,Karan Mehta,4,0.15
+5033,2025-01-08,South,Stationery,Marker Pack,Sneha Gupta,1,0.0
+5034,2025-01-08,North,Furniture,Wooden Table,Rahul Sharma,1,0.2
+5035,2025-01-08,East,Stationery,Geometry Box,Amit Singh,7,0.1
+5036,2025-01-08,South,Furniture,Wooden Table,Karan Mehta,8,0.2
+5037,2025-01-09,North,Stationery,Pen Set,Divya Menon,9,0.2
+5038,2025-01-09,West,Groceries,Rice Pack,Divya Menon,4,0.15
+5039,2025-01-09,North,Clothing,Jacket,Neha Joshi,5,0.15
+5040,2025-01-09,South,Electronics,Tablet,Anjali Nair,7,0.1
+5041,2025-01-09,North,Electronics,Laptop,Amit Singh,5,0.2
+5042,2025-01-09,East,Electronics,Tablet,Manoj Pillai,4,0.1
+5043,2025-01-10,North,Electronics,Smartphone,Manoj Pillai,6,0.1
+5044,2025-01-10,West,Electronics,Smart Watch,Anjali Nair,9,0.0
+5045,2025-01-10,North,Furniture,Bed Frame,Divya Menon,9,0.2
+5046,2025-01-11,East,Clothing,T-Shirt,Rahul Sharma,5,0.0
+5047,2025-01-11,East,Furniture,Office Chair,Anjali Nair,7,0.15
+5048,2025-01-11,East,Electronics,Laptop,Kavita Das,6,0.05
+5049,2025-01-12,East,Stationery,Pen Set,Pooja Iyer,5,0.15
+5050,2025-01-12,East,Clothing,Cap,Rahul Sharma,4,0.0
+5051,2025-01-12,North,Electronics,Smart Watch,Rohit Kapoor,6,0.15
+5052,2025-01-13,West,Electronics,Smart Watch,Kavita Das,8,0.2
+5053,2025-01-13,East,Electronics,Smartphone,Manoj Pillai,10,0.0
+5054,2025-01-13,South,Groceries,Rice Pack,Karan Mehta,10,0.2
+5055,2025-01-13,South,Groceries,Rice Pack,Karan Mehta,2,0.0
+5056,2025-01-13,East,Stationery,Marker Pack,Karan Mehta,9,0.15
+5057,2025-01-14,North,Stationery,File Folder,Pooja Iyer,7,0.15
+5058,2025-01-14,East,Stationery,File Folder,Sneha Gupta,4,0.05
+5059,2025-01-14,West,Electronics,Smart Watch,Kavita Das,1,0.1
+5060,2025-01-15,East,Stationery,Pen Set,Anjali Nair,4,0.1
+5061,2025-01-15,East,Stationery,Notebook,Neha Joshi,6,0.15
+5062,2025-01-15,East,Groceries,Cooking Oil,Rohit Kapoor,6,0.05
+5063,2025-01-16,South,Furniture,Bed Frame,Arjun Reddy,10,0.2
+5064,2025-01-16,South,Clothing,Jeans,Karan Mehta,7,0.05
+5065,2025-01-16,North,Groceries,Tea Pack,Anjali Nair,9,0.0
+5066,2025-01-16,North,Clothing,Cap,Kavita Das,5,0.15
+5067,2025-01-16,West,Stationery,Marker Pack,Neha Joshi,4,0.0
+5068,2025-01-17,North,Furniture,Bed Frame,Anjali Nair,4,0.05
+5069,2025-01-17,West,Furniture,Bookshelf,Sanjay Malhotra,7,0.15
+5070,2025-01-17,South,Clothing,Jacket,Priya Verma,6,0.0
+5071,2025-01-17,South,Clothing,Jeans,Kavita Das,9,0.1
+5072,2025-01-18,West,Electronics,Laptop,Rahul Sharma,9,0.15
+5073,2025-01-18,South,Electronics,Tablet,Manoj Pillai,10,0.15
+5074,2025-01-18,South,Electronics,Smart Watch,Sanjay Malhotra,4,0.2
+5075,2025-01-18,South,Groceries,Tea Pack,Pooja Iyer,8,0.0
+5076,2025-01-18,North,Stationery,Geometry Box,Amit Singh,6,0.05
+5077,2025-01-19,West,Furniture,Office Chair,Sanjay Malhotra,10,0.0
+5078,2025-01-19,North,Groceries,Rice Pack,Amit Singh,2,0.0
+5079,2025-01-19,South,Clothing,Jeans,Sneha Gupta,5,0.1
+5080,2025-01-19,West,Furniture,Office Chair,Anjali Nair,8,0.15
+5081,2025-01-19,West,Electronics,Tablet,Kavita Das,7,0.0
+5082,2025-01-19,West,Electronics,Smart Watch,Anjali Nair,10,0.15
+5083,2025-01-20,West,Groceries,Tea Pack,Karan Mehta,5,0.0
+5084,2025-01-20,West,Stationery,Pen Set,Sneha Gupta,5,0.1
+5085,2025-01-20,North,Electronics,Tablet,Divya Menon,6,0.05
+5086,2025-01-20,South,Clothing,Jeans,Arjun Reddy,7,0.1
+5087,2025-01-20,South,Groceries,Spices Set,Sneha Gupta,3,0.05
+5088,2025-01-21,North,Clothing,Jeans,Neha Joshi,1,0.15
+5089,2025-01-21,North,Clothing,Jacket,Pooja Iyer,4,0.15
+5090,2025-01-21,North,Electronics,Headphones,Pooja Iyer,10,0.0
+5091,2025-01-22,East,Electronics,Smartphone,Rahul Sharma,2,0.15
+5092,2025-01-22,South,Groceries,Rice Pack,Rahul Sharma,9,0.0
+5093,2025-01-22,South,Groceries,Snacks Box,Rohit Kapoor,10,0.05
+5094,2025-01-23,West,Clothing,Cap,Pooja Iyer,9,0.05
+5095,2025-01-23,South,Clothing,Jacket,Rohit Kapoor,9,0.05
+5096,2025-01-23,East,Groceries,Rice Pack,Neha Joshi,3,0.0
+5097,2025-01-23,East,Stationery,Marker Pack,Pooja Iyer,10,0.0
+5098,2025-01-23,East,Groceries,Cooking Oil,Manoj Pillai,9,0.15
+5099,2025-01-24,East,Furniture,Wooden Table,Rahul Sharma,4,0.0
+5100,2025-01-24,West,Furniture,Bookshelf,Karan Mehta,6,0.05
+5101,2025-01-24,South,Clothing,Shoes,Rohit Kapoor,6,0.1
+5102,2025-01-24,South,Groceries,Cooking Oil,Vikram Rao,1,0.0
+5103,2025-01-24,North,Furniture,Office Chair,Rohit Kapoor,7,0.0
+5104,2025-01-24,North,Clothing,Shoes,Sanjay Malhotra,1,0.1
+5105,2025-01-25,North,Stationery,Geometry Box,Vikram Rao,4,0.05
+5106,2025-01-25,West,Electronics,Smart Watch,Arjun Reddy,4,0.0
+5107,2025-01-25,South,Furniture,Sofa,Manoj Pillai,7,0.05
+5108,2025-01-26,South,Electronics,Smartphone,Manoj Pillai,1,0.0
+5109,2025-01-26,North,Stationery,Notebook,Rohit Kapoor,10,0.2
+5110,2025-01-26,South,Electronics,Tablet,Pooja Iyer,9,0.0
+5111,2025-01-26,North,Clothing,Cap,Rahul Sharma,3,0.2
+5112,2025-01-26,South,Clothing,Jacket,Priya Verma,6,0.2
+5113,2025-01-26,South,Stationery,Notebook,Neha Joshi,4,0.0
+5114,2025-01-27,South,Groceries,Tea Pack,Karan Mehta,2,0.05
+5115,2025-01-27,West,Groceries,Cooking Oil,Rohit Kapoor,1,0.2
+5116,2025-01-27,North,Furniture,Wooden Table,Arjun Reddy,7,0.2
+5117,2025-01-27,North,Clothing,Cap,Vikram Rao,8,0.1
+5118,2025-01-27,West,Electronics,Headphones,Manoj Pillai,4,0.0
+5119,2025-01-28,North,Clothing,Cap,Sneha Gupta,4,0.0
+5120,2025-01-28,West,Groceries,Cooking Oil,Neha Joshi,8,0.2
+5121,2025-01-28,East,Furniture,Office Chair,Rohit Kapoor,10,0.0
+5122,2025-01-29,South,Groceries,Spices Set,Sneha Gupta,8,0.15
+5123,2025-01-29,East,Electronics,Smartphone,Karan Mehta,8,0.15
+5124,2025-01-29,West,Electronics,Tablet,Pooja Iyer,8,0.15
+5125,2025-01-29,South,Stationery,File Folder,Sanjay Malhotra,4,0.15
+5126,2025-01-29,South,Groceries,Spices Set,Rohit Kapoor,6,0.0
+5127,2025-01-30,West,Furniture,Bookshelf,Manoj Pillai,7,0.05
+5128,2025-01-30,South,Furniture,Bookshelf,Karan Mehta,7,0.15
+5129,2025-01-30,North,Stationery,Pen Set,Pooja Iyer,7,0.0
+5130,2025-01-31,East,Furniture,Wooden Table,Rohit Kapoor,10,0.2
+5131,2025-01-31,North,Groceries,Snacks Box,Neha Joshi,10,0.05
+5132,2025-01-31,East,Stationery,File Folder,Priya Verma,3,0.1
+5133,2025-01-31,East,Stationery,Marker Pack,Pooja Iyer,8,0.05
+5134,2025-01-31,West,Clothing,Cap,Kavita Das,8,0.15
+5135,2025-01-31,East,Electronics,Tablet,Kavita Das,4,0.2
+5136,2025-02-01,North,Clothing,T-Shirt,Manoj Pillai,2,0.1
+5137,2025-02-01,North,Groceries,Rice Pack,Manoj Pillai,7,0.1
+5138,2025-02-01,West,Stationery,File Folder,Sneha Gupta,10,0.0
+5139,2025-02-01,South,Stationery,Geometry Box,Kavita Das,7,0.1
+5140,2025-02-01,North,Stationery,File Folder,Pooja Iyer,2,0.0
+5141,2025-02-02,West,Electronics,Smartphone,Kavita Das,6,0.0
+5142,2025-02-02,North,Stationery,Pen Set,Vikram Rao,5,0.2
+5143,2025-02-02,South,Stationery,Marker Pack,Rohit Kapoor,8,0.1
+5144,2025-02-02,West,Electronics,Laptop,Arjun Reddy,1,0.05
+5145,2025-02-02,South,Electronics,Smartphone,Priya Verma,3,0.1
+5146,2025-02-03,North,Stationery,Marker Pack,Kavita Das,1,0.15
+5147,2025-02-03,East,Furniture,Bed Frame,Sanjay Malhotra,1,0.15
+5148,2025-02-03,East,Furniture,Wooden Table,Amit Singh,4,0.05
+5149,2025-02-04,South,Electronics,Tablet,Rahul Sharma,7,0.05
+5150,2025-02-04,North,Electronics,Smart Watch,Arjun Reddy,4,0.0
+5151,2025-02-04,South,Clothing,Jeans,Manoj Pillai,7,0.15
+5152,2025-02-04,South,Clothing,Cap,Pooja Iyer,6,0.05
+5153,2025-02-04,West,Clothing,T-Shirt,Divya Menon,6,0.15
+5154,2025-02-04,North,Clothing,Jacket,Karan Mehta,10,0.1
+5155,2025-02-05,West,Clothing,T-Shirt,Divya Menon,7,0.2
+5156,2025-02-05,West,Furniture,Sofa,Arjun Reddy,5,0.1
+5157,2025-02-05,East,Furniture,Sofa,Anjali Nair,2,0.1
+5158,2025-02-05,West,Groceries,Spices Set,Rohit Kapoor,7,0.1
+5159,2025-02-05,South,Clothing,Cap,Sneha Gupta,5,0.2
+5160,2025-02-05,South,Clothing,Cap,Karan Mehta,3,0.15
+5161,2025-02-06,South,Groceries,Tea Pack,Kavita Das,5,0.2
+5162,2025-02-06,East,Furniture,Wooden Table,Rahul Sharma,8,0.15
+5163,2025-02-06,East,Stationery,Marker Pack,Rahul Sharma,9,0.2
+5164,2025-02-06,East,Furniture,Wooden Table,Sanjay Malhotra,7,0.2
+5165,2025-02-06,South,Clothing,Jacket,Sneha Gupta,7,0.2
+5166,2025-02-06,East,Stationery,Notebook,Anjali Nair,1,0.1
+5167,2025-02-07,North,Clothing,T-Shirt,Neha Joshi,3,0.2
+5168,2025-02-07,East,Groceries,Tea Pack,Amit Singh,1,0.0
+5169,2025-02-07,West,Furniture,Sofa,Amit Singh,10,0.05
+5170,2025-02-07,North,Groceries,Tea Pack,Sneha Gupta,8,0.05
+5171,2025-02-07,East,Clothing,Jacket,Arjun Reddy,1,0.05
+5172,2025-02-08,North,Groceries,Cooking Oil,Anjali Nair,9,0.1
+5173,2025-02-08,North,Clothing,T-Shirt,Arjun Reddy,3,0.0
+5174,2025-02-08,East,Clothing,T-Shirt,Arjun Reddy,3,0.2
+5175,2025-02-09,East,Furniture,Sofa,Sneha Gupta,2,0.05
+5176,2025-02-09,West,Stationery,Geometry Box,Sanjay Malhotra,4,0.05
+5177,2025-02-09,West,Stationery,Geometry Box,Sneha Gupta,2,0.0
+5178,2025-02-10,South,Furniture,Sofa,Neha Joshi,1,0.1
+5179,2025-02-10,South,Groceries,Snacks Box,Amit Singh,8,0.1
+5180,2025-02-10,South,Stationery,Marker Pack,Kavita Das,7,0.05
+5181,2025-02-11,North,Electronics,Tablet,Anjali Nair,8,0.05
+5182,2025-02-11,South,Stationery,Geometry Box,Anjali Nair,5,0.1
+5183,2025-02-11,North,Clothing,Shoes,Rahul Sharma,10,0.0
+5184,2025-02-11,South,Clothing,T-Shirt,Priya Verma,8,0.1
+5185,2025-02-11,East,Clothing,Jacket,Sanjay Malhotra,4,0.15
+5186,2025-02-12,West,Furniture,Bookshelf,Amit Singh,9,0.0
+5187,2025-02-12,West,Groceries,Cooking Oil,Sneha Gupta,8,0.1
+5188,2025-02-12,West,Electronics,Laptop,Kavita Das,2,0.1
+5189,2025-02-13,East,Groceries,Cooking Oil,Sanjay Malhotra,7,0.1
+5190,2025-02-13,North,Furniture,Bookshelf,Rahul Sharma,9,0.1
+5191,2025-02-13,North,Stationery,Marker Pack,Karan Mehta,3,0.0
+5192,2025-02-13,North,Groceries,Spices Set,Sneha Gupta,2,0.2
+5193,2025-02-13,West,Furniture,Office Chair,Sanjay Malhotra,4,0.2
+5194,2025-02-13,East,Electronics,Smart Watch,Divya Menon,8,0.0
+5195,2025-02-14,East,Electronics,Headphones,Divya Menon,10,0.2
+5196,2025-02-14,South,Furniture,Bookshelf,Pooja Iyer,4,0.0
+5197,2025-02-14,South,Furniture,Sofa,Sanjay Malhotra,4,0.2
+5198,2025-02-14,North,Clothing,Cap,Anjali Nair,2,0.1
+5199,2025-02-14,South,Electronics,Laptop,Anjali Nair,10,0.05
+5200,2025-02-15,East,Clothing,T-Shirt,Kavita Das,3,0.2
+5201,2025-02-15,South,Furniture,Office Chair,Sneha Gupta,5,0.05
+5202,2025-02-15,West,Clothing,Jacket,Pooja Iyer,7,0.15
+5203,2025-02-15,South,Stationery,File Folder,Priya Verma,2,0.1
+5204,2025-02-15,East,Stationery,Notebook,Divya Menon,5,0.1
+5205,2025-02-15,South,Electronics,Tablet,Kavita Das,4,0.1
+5206,2025-02-16,West,Stationery,Geometry Box,Sneha Gupta,2,0.0
+5207,2025-02-16,South,Stationery,Marker Pack,Pooja Iyer,2,0.0
+5208,2025-02-16,East,Electronics,Smart Watch,Amit Singh,10,0.0
+5209,2025-02-16,West,Stationery,Pen Set,Karan Mehta,6,0.0
+5210,2025-02-17,South,Furniture,Bed Frame,Priya Verma,7,0.05
+5211,2025-02-17,North,Electronics,Tablet,Pooja Iyer,4,0.2
+5212,2025-02-17,South,Furniture,Office Chair,Neha Joshi,9,0.05
+5213,2025-02-17,West,Stationery,Notebook,Sanjay Malhotra,6,0.15
+5214,2025-02-17,South,Groceries,Tea Pack,Sanjay Malhotra,8,0.0
+5215,2025-02-17,North,Clothing,Jeans,Neha Joshi,9,0.15
+5216,2025-02-18,North,Groceries,Snacks Box,Anjali Nair,10,0.2
+5217,2025-02-18,North,Clothing,Jeans,Rahul Sharma,5,0.1
+5218,2025-02-18,East,Electronics,Smartphone,Sanjay Malhotra,3,0.0
+5219,2025-02-18,South,Groceries,Spices Set,Sneha Gupta,9,0.15
+5220,2025-02-18,North,Furniture,Sofa,Arjun Reddy,6,0.0
+5221,2025-02-18,South,Stationery,Geometry Box,Rohit Kapoor,7,0.15
+5222,2025-02-19,North,Furniture,Office Chair,Vikram Rao,1,0.2
+5223,2025-02-19,South,Clothing,Shoes,Arjun Reddy,8,0.1
+5224,2025-02-19,East,Electronics,Tablet,Divya Menon,3,0.05
+5225,2025-02-19,West,Stationery,File Folder,Priya Verma,1,0.0
+5226,2025-02-19,South,Stationery,Pen Set,Pooja Iyer,3,0.0
+5227,2025-02-19,North,Clothing,T-Shirt,Sneha Gupta,4,0.1
+5228,2025-02-20,North,Electronics,Tablet,Vikram Rao,3,0.05
+5229,2025-02-20,North,Electronics,Laptop,Rohit Kapoor,9,0.05
+5230,2025-02-20,East,Furniture,Wooden Table,Rahul Sharma,9,0.05
+5231,2025-02-20,North,Groceries,Spices Set,Priya Verma,7,0.05
+5232,2025-02-20,West,Electronics,Laptop,Rohit Kapoor,10,0.0
+5233,2025-02-20,West,Furniture,Bookshelf,Neha Joshi,1,0.15
+5234,2025-02-21,West,Groceries,Tea Pack,Amit Singh,1,0.0
+5235,2025-02-21,North,Clothing,Jeans,Priya Verma,5,0.0
+5236,2025-02-21,North,Groceries,Rice Pack,Pooja Iyer,2,0.15
+5237,2025-02-21,South,Clothing,Cap,Anjali Nair,1,0.2
+5238,2025-02-21,East,Electronics,Laptop,Sneha Gupta,8,0.0
+5239,2025-02-22,North,Electronics,Tablet,Sanjay Malhotra,2,0.2
+5240,2025-02-22,East,Clothing,Jacket,Vikram Rao,6,0.15
+5241,2025-02-22,West,Furniture,Bed Frame,Karan Mehta,6,0.1
+5242,2025-02-22,West,Electronics,Tablet,Amit Singh,8,0.15
+5243,2025-02-22,West,Electronics,Laptop,Pooja Iyer,8,0.0
+5244,2025-02-23,South,Groceries,Cooking Oil,Neha Joshi,6,0.15
+5245,2025-02-23,North,Furniture,Bookshelf,Sanjay Malhotra,7,0.15
+5246,2025-02-23,South,Electronics,Headphones,Anjali Nair,8,0.05
+5247,2025-02-23,West,Electronics,Laptop,Rohit Kapoor,9,0.15
+5248,2025-02-23,East,Electronics,Laptop,Divya Menon,3,0.05
+5249,2025-02-23,East,Groceries,Rice Pack,Vikram Rao,5,0.15
+5250,2025-02-24,South,Groceries,Tea Pack,Sneha Gupta,4,0.0
+5251,2025-02-24,East,Electronics,Smartphone,Sanjay Malhotra,8,0.15
+5252,2025-02-24,North,Clothing,Jeans,Arjun Reddy,2,0.1
+5253,2025-02-24,South,Clothing,Cap,Sneha Gupta,2,0.2
+5254,2025-02-24,West,Stationery,Marker Pack,Sneha Gupta,7,0.1
+5255,2025-02-24,West,Electronics,Headphones,Karan Mehta,6,0.15
+5256,2025-02-25,West,Electronics,Laptop,Karan Mehta,9,0.2
+5257,2025-02-25,South,Electronics,Smartphone,Vikram Rao,9,0.05
+5258,2025-02-25,West,Stationery,Pen Set,Karan Mehta,4,0.0
+5259,2025-02-25,East,Stationery,Pen Set,Divya Menon,3,0.2
+5260,2025-02-25,North,Furniture,Bookshelf,Manoj Pillai,1,0.15
+5261,2025-02-25,East,Stationery,Pen Set,Vikram Rao,2,0.0
+5262,2025-02-26,North,Groceries,Cooking Oil,Neha Joshi,2,0.0
+5263,2025-02-26,West,Furniture,Wooden Table,Rohit Kapoor,3,0.1
+5264,2025-02-26,West,Electronics,Tablet,Sneha Gupta,1,0.0
+5265,2025-02-26,North,Groceries,Spices Set,Sanjay Malhotra,7,0.0
+5266,2025-02-26,West,Clothing,Shoes,Rohit Kapoor,10,0.2
+5267,2025-02-27,West,Clothing,Cap,Neha Joshi,8,0.2
+5268,2025-02-27,North,Clothing,Jeans,Manoj Pillai,3,0.0
+5269,2025-02-27,West,Electronics,Smartphone,Vikram Rao,9,0.15
+5270,2025-02-27,East,Groceries,Snacks Box,Rohit Kapoor,2,0.2
+5271,2025-02-27,North,Electronics,Smart Watch,Priya Verma,8,0.05
+5272,2025-02-28,West,Furniture,Office Chair,Karan Mehta,4,0.0
+5273,2025-02-28,South,Stationery,Marker Pack,Anjali Nair,6,0.15
+5274,2025-02-28,South,Groceries,Rice Pack,Karan Mehta,10,0.1
+5275,2025-02-28,West,Furniture,Bookshelf,Manoj Pillai,9,0.2
+5276,2025-02-28,North,Electronics,Tablet,Kavita Das,4,0.2
+5277,2025-03-01,West,Stationery,Pen Set,Divya Menon,1,0.0
+5278,2025-03-01,South,Electronics,Smart Watch,Priya Verma,7,0.15
+5279,2025-03-01,East,Furniture,Wooden Table,Priya Verma,7,0.05
